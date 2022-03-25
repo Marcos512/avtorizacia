@@ -1,0 +1,4 @@
+<Files ~ "\.(json|php|htm|html|js)$">
+  Order allow,deny
+  Deny from all
+</Files>
